@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://OneDayYu.github.io</id>
+    <title>Yitian&apos;s Blog</title>
+    <updated>2023-05-29T21:51:29.438Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://OneDayYu.github.io"/>
+    <link rel="self" href="https://OneDayYu.github.io/atom.xml"/>
+    <subtitle>来路孤独，常有欢喜。</subtitle>
+    <logo>https://OneDayYu.github.io/images/avatar.png</logo>
+    <icon>https://OneDayYu.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Yitian&apos;s Blog</rights>
+</feed>
